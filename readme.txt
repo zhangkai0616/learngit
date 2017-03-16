@@ -4,4 +4,5 @@ git tracks changes of changes
 aaaaa
 bbbbb
 ccccc
-create a new branch is quick &simple
+
+create a new branch is quick and simple
